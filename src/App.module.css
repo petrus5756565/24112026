@@ -1,0 +1,14 @@
+.wrapHome{
+  min-height: 100vh;
+  height: auto;
+  background-color: var(--dark);
+  color: var(--light);
+  box-sizing: border-box;
+  padding: 70px 5% 30px;
+}
+
+.map{
+  width: 100%;
+  height: min(76vh, 600px);
+  min-height: 600px;
+}
